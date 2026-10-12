@@ -1,0 +1,17 @@
+{
+  "name": "@red-cup-engineering/tidepool-sdk",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Tidepool JS client: member flows, reads and the demo script.",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "dependencies": {
+    "@red-cup-engineering/tidepool-evm": "workspace:*"
+  },
+  "license": "UNLICENSED"
+}
